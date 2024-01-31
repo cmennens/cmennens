@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cmennens
-- 👀 I’m interested in all things "devops" 💾
-- 🌱 I’m currently learning GHA, Kubernetes & ArgoCD 🖥️
+- 👀 I’m interested in all things "tech" 💻💾
 - 💞️ I’m looking to collaborate on anything cool 😎
 - 📫 carlos@mennens.org
 
