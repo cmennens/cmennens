@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cmennens (Carlos)
-- 👀 I’m interested in databases 💾, Linux 🐧 & everything in between 🚽
+- 👀 I’m interested in K8 , Linux 🐧 , databases 💾 &  DevOps.
 - 📫 cmennens@proton.me
